@@ -33,12 +33,13 @@ Follow these steps to get the application up and running on your local machine:
 3. **Install the dependencies:**
    npm install
 4. **Start the application:**
-   npm start
+   npm run dev
 5. **Open your browser and navigate to:**
-   http://localhost:3000
+   http://localhost:5173
 
 ## Technologies Used
 - **React.js for building the user interface.**
+- **Vite for fast and efficient development.**
 - **News API for fetching news articles.**
 - **Tailwind CSS for styling.**
 
