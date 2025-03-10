@@ -21,6 +21,24 @@ Each news item has a **"Read This News Later"** checkbox.
 - Users can view all the saved news articles on this page.
 - If the checkbox is unchecked, the news item will be removed from the **"Read This News Later"** page.
 
+## Screenshots
+
+### Sports News Page
+![Sports News](./public/sports.png)
+
+### Technology News Page
+![Technology News](./public/technology.png)
+
+### Politics News Page
+![Politics News](./public/politics.png)
+
+### Searched News Page
+![Searched News](./public/search-topic.png)
+
+### Read This News Later Page
+![Read This News Later](./public/read-this-later.png)
+
+
 ## Installation
 
 Follow these steps to get the application up and running on your local machine:
